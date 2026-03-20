@@ -38,7 +38,6 @@
 | [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + Kotlin + GCP Pub/Sub messaging |
 | [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | Spring Boot + DocuSign API — envelope creation, webhook callbacks, signature workflow |
 | [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers *(learning project)* |
-| [`devOps-learning`](https://github.com/deva-u7/devOps-learning) | Docker, Kubernetes, CI/CD patterns |
 
 ---
 
