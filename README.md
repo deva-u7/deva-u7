@@ -1,56 +1,55 @@
 <h1 align="center">Hi, I'm Deva</h1>
-<h3 align="center">Senior Java Engineer &nbsp;·&nbsp; Camunda 8 &nbsp;·&nbsp; AWS &nbsp;·&nbsp; AI Engineering</h3>
+<h3 align="center">Backend Engineer &nbsp;·&nbsp; Java · Kotlin · Spring Boot · Quarkus · AWS · Kafka</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Camunda-8-FC5D0D?style=flat&logo=camunda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-SDK_v2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Engineering-Ollama_|_RAG-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/Quarkus-3-202429?style=flat&logo=quarkus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 </p>
 
 ---
 
 ## What I build
 
-3+ years building production backend systems in Java and Spring Boot.
-Currently deep in two areas:
+3+ years building production backend systems across Java, Kotlin, and multiple frameworks.
 
-**Camunda 8 / Process Automation**
-- BPMN workflow design — Event-Based Gateways, Sub-Processes, Multi-Instance, Call Activities
-- Zeebe job workers (`@JobWorker`), DMN business rule tasks, embedded forms
-- Spring Boot 3 integration with `CamundaClient` and `@Deployment`
+**Core stack (production experience)**
+- **Java & Kotlin** — Spring Boot, Quarkus, Ktor, WebFlux/Reactive, Hibernate/JPA
+- **Messaging** — Kafka, AWS SNS/SQS
+- **Cloud / AWS** — S3, SNS, SQS, Secrets Manager, EC2, SDK v2
+- **Databases** — PostgreSQL, MySQL, MongoDB
+- **DevOps** — Docker, Kubernetes, CI/CD
 
-**AI Engineering** *(active learning track)*
-- Local LLMs via Ollama (Qwen2.5, phi4-mini)
-- RAG pipelines — ChromaDB vector store, mxbai-embed-large embeddings
-- Agent architectures, LangChain4j, OpenAI Agents SDK
+**Learning / personal projects**
+- **AI Engineering** — local LLMs via Ollama, RAG pipelines with ChromaDB, vector embeddings
+- **Process automation** — Camunda 8, BPMN/DMN, Zeebe job workers *(self-study, not production)*
 
 ---
 
-## Pinned projects
+## Projects
 
 | Repo | What it shows |
 |---|---|
-| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Full Camunda 8 workflow: BPMN, DMN, Zeebe workers, Docker Compose |
-| [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Multi-module AWS: SNS · SQS · S3 (LocalStack E2E) · Secrets Manager · LaunchDarkly |
-| [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive REST API with Spring WebFlux |
-| [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | DocuSign e-signature API + Camunda process integration |
-| [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + GCP Pub/Sub messaging |
+| [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Multi-module AWS: SNS · SQS · S3 (LocalStack E2E tests) · Secrets Manager · LaunchDarkly |
+| [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive streams with Spring WebFlux and R2DBC |
+| [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + Kotlin + GCP Pub/Sub messaging |
+| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers *(learning project)* |
 | [`devOps-learning`](https://github.com/deva-u7/devOps-learning) | Docker, Kubernetes, CI/CD patterns |
 
 ---
 
 ## Tech stack
 
-**Languages** — Java 21, Kotlin, SQL  
-**Frameworks** — Spring Boot 3, Spring WebFlux, Quarkus, Hibernate/JPA  
-**Process Automation** — Camunda 8, Zeebe, BPMN 2.0, DMN  
-**Cloud / AWS** — EC2, S3, SNS, SQS, Secrets Manager, SDK v2, Spring Cloud AWS 3  
-**Messaging** — Kafka, AWS SQS/SNS  
+**Languages** — Java 21, Kotlin  
+**Frameworks** — Spring Boot 3, Spring WebFlux, Quarkus, Ktor, Hibernate/JPA  
+**Messaging** — Kafka, AWS SNS, AWS SQS  
+**Cloud / AWS** — S3, SNS, SQS, Secrets Manager, EC2, SDK v2, Spring Cloud AWS 3  
 **Databases** — PostgreSQL, MySQL, MongoDB, H2  
-**Testing** — JUnit 5, Testcontainers, LocalStack, Mockito  
-**DevOps** — Docker, Kubernetes, Maven, GitHub Actions  
+**Testing** — JUnit 5, Testcontainers, LocalStack, Mockito, WireMock  
+**DevOps** — Docker, Kubernetes, Maven, Gradle, GitHub Actions  
 
 ---
 
