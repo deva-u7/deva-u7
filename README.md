@@ -1,77 +1,69 @@
-<h1 align="center">Hi 👋, I'm Dasa Deva</h1>
-<h3 align="center">A Passionate Java Developer 🌟</h3>
+<h1 align="center">Hi, I'm Deva</h1>
+<h3 align="center">Senior Java Engineer &nbsp;·&nbsp; Camunda 8 &nbsp;·&nbsp; AWS &nbsp;·&nbsp; AI Engineering</h3>
 
----
-
-### ⚡ Welcome to My GitHub Profile 🚀  
-🔭 I'm a dedicated Java/Kotlin Developer  specializing in **Java, Kotlin, Spring Boot**.  
-🎯 My goal is to create impactful and scalable applications while continuously expanding my technical expertise.  
-💡 Let's connect and collaborate on innovative projects!
-
----
-
-## 📫 How to Reach Me:
-- **Email**: dasadeva8189@gmail.com  
-- **LeetCode**: [Dasa Deva](https://leetcode.com/deva-u7/)  
-- **LinkedIn**: [Dasa Deva](https://www.linkedin.com/in/deva-u7/)
-
----
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) 
-![Quarkus](https://img.shields.io/badge/quarkus-%23202429.svg?style=plastic&logo=quarkus&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) 
-
----
-
-## 🌟 Education Qualification:
-- **Bachelor of Computer Applications (BCA)** - BKMNU University, 2023
-
----
-
-## 🛠️ Technical Skills:
-- **Languages**: Java, Kotlin  
-- **Frameworks & Tools**: Spring Boot, Hibernate/JPA, Quarkus, WebFlux, Ktor, Koin, REST  
-- **Databases**: MySQL, PostgreSQL, MS SQL, MongoDB  
-- **Schedulers**: Spring Batch, CRON Jobs  
-- **Cloud & DevOps**: Docker, Kubernetes (K8s), AWS (EC2, S3, SNS, SQS, Secret Manager), OpenAPI  
-- **Version Control & PM Tools**: Git, JIRA, Confluence  
-- **Development Tools**: IntelliJ IDEA, Maven, Gradle  
-
----
-
-## 🎯 Responsibilities as a Java Developer:
-- Designed and implemented **architecture** for mobile and web applications (banking domain).  
-- Played a key role in delivering **MVP Mobile Apps**, focusing on backend development.  
-- Provided **live production support**, resolving critical issues efficiently.  
-- Collaborated with clients to gather and understand **high-level requirements**.  
-- Worked closely with teams to ensure adherence to the **best development methodologies** and quality standards.  
-
----
-
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deva-u7&show_icons=true&locale=en" alt="deva-u7 stats" />  
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deva-u7&show_icons=true&locale=en&layout=compact" alt="deva-u7 languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deva-u7&" alt="deva-u7 streak stats" />
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Camunda-8-FC5D0D?style=flat&logo=camunda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-SDK_v2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Engineering-Ollama_|_RAG-blueviolet?style=flat"/>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## What I build
+
+3+ years building production backend systems in Java and Spring Boot.
+Currently deep in two areas:
+
+**Camunda 8 / Process Automation**
+- BPMN workflow design — Event-Based Gateways, Sub-Processes, Multi-Instance, Call Activities
+- Zeebe job workers (`@JobWorker`), DMN business rule tasks, embedded forms
+- Spring Boot 3 integration with `CamundaClient` and `@Deployment`
+
+**AI Engineering** *(active learning track)*
+- Local LLMs via Ollama (Qwen2.5, phi4-mini)
+- RAG pipelines — ChromaDB vector store, mxbai-embed-large embeddings
+- Agent architectures, LangChain4j, OpenAI Agents SDK
 
 ---
 
-### 🚀 Let's Build Something Amazing Together!
-Feel free to connect with me for exciting collaboration opportunities!
+## Pinned projects
+
+| Repo | What it shows |
+|---|---|
+| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Full Camunda 8 workflow: BPMN, DMN, Zeebe workers, Docker Compose |
+| [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Multi-module AWS: SNS · SQS · S3 (LocalStack E2E) · Secrets Manager · LaunchDarkly |
+| [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive REST API with Spring WebFlux |
+| [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | DocuSign e-signature API + Camunda process integration |
+| [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + GCP Pub/Sub messaging |
+| [`devOps-learning`](https://github.com/deva-u7/devOps-learning) | Docker, Kubernetes, CI/CD patterns |
+
+---
+
+## Tech stack
+
+**Languages** — Java 21, Kotlin, SQL  
+**Frameworks** — Spring Boot 3, Spring WebFlux, Quarkus, Hibernate/JPA  
+**Process Automation** — Camunda 8, Zeebe, BPMN 2.0, DMN  
+**Cloud / AWS** — EC2, S3, SNS, SQS, Secrets Manager, SDK v2, Spring Cloud AWS 3  
+**Messaging** — Kafka, AWS SQS/SNS  
+**Databases** — PostgreSQL, MySQL, MongoDB, H2  
+**Testing** — JUnit 5, Testcontainers, LocalStack, Mockito  
+**DevOps** — Docker, Kubernetes, Maven, GitHub Actions  
+
+---
+
+## Contact
+
+- **LinkedIn**: [linkedin.com/in/deva-u7](https://www.linkedin.com/in/deva-u7/)
+- **Email**: dasadeva8189@gmail.com
+- **LeetCode**: [leetcode.com/deva-u7](https://leetcode.com/deva-u7/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deva-u7&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deva-u7&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
