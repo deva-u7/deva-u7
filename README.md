@@ -36,6 +36,7 @@
 | [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Multi-module AWS: SNS · SQS · S3 (LocalStack E2E tests) · Secrets Manager · LaunchDarkly |
 | [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive streams with Spring WebFlux and R2DBC |
 | [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + Kotlin + GCP Pub/Sub messaging |
+| [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | Spring Boot + DocuSign API — envelope creation, webhook callbacks, signature workflow |
 | [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers *(learning project)* |
 | [`devOps-learning`](https://github.com/deva-u7/devOps-learning) | Docker, Kubernetes, CI/CD patterns |
 
