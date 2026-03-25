@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Quarkus-3-202429?style=flat&logo=quarkus&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-local_LLM-000000?style=flat&logo=ollama&logoColor=white"/>
 </p>
 
 ---
@@ -23,9 +24,10 @@
 - **Databases** — PostgreSQL, MySQL, MongoDB
 - **DevOps** — Docker, Kubernetes, CI/CD
 
-**Learning / personal projects**
-- **AI Engineering** — local LLMs via Ollama, RAG pipelines with ChromaDB, vector embeddings
-- **Process automation** — Camunda 8, BPMN/DMN, Zeebe job workers *(self-study, not production)*
+**AI Engineering (personal projects)**
+- **Local LLMs** — Ollama on dedicated hardware, Spring Boot WebFlux integration
+- **Developer tools** — code review, commit message generation, text summarization powered by local models
+- **Planned** — RAG pipelines with ChromaDB, vector embeddings, LangChain4j, Spring AI
 
 ---
 
@@ -33,11 +35,12 @@
 
 | Repo | What it shows |
 |---|---|
+| [`spring-ollama-chat`](https://github.com/deva-u7/spring-ollama-chat) | Kotlin + Spring Boot WebFlux + Ollama — developer tools (code review, commit messages, summarization) powered by local LLMs |
 | [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Multi-module AWS: SNS · SQS · S3 (LocalStack E2E tests) · Secrets Manager · LaunchDarkly |
 | [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive streams with Spring WebFlux and R2DBC |
 | [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + Kotlin + GCP Pub/Sub messaging |
 | [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | Spring Boot + DocuSign API — envelope creation, webhook callbacks, signature workflow |
-| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers *(learning project)* |
+| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers |
 
 ---
 
@@ -48,6 +51,7 @@
 **Messaging** — Kafka, AWS SNS, AWS SQS  
 **Cloud / AWS** — S3, SNS, SQS, Secrets Manager, EC2, SDK v2, Spring Cloud AWS 3  
 **Databases** — PostgreSQL, MySQL, MongoDB, H2  
+**AI** — Ollama, local LLMs (phi4-mini, qwen2.5), ChromaDB *(in progress)*  
 **Testing** — JUnit 5, Testcontainers, LocalStack, Mockito, WireMock  
 **DevOps** — Docker, Kubernetes, Maven, Gradle, GitHub Actions  
 
