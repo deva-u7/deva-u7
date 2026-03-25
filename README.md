@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Quarkus-3-202429?style=flat&logo=quarkus&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-local_LLM-000000?style=flat&logo=ollama&logoColor=white"/>
 </p>
 
 ---
@@ -24,10 +23,9 @@
 - **Databases** — PostgreSQL, MySQL, MongoDB
 - **DevOps** — Docker, Kubernetes, CI/CD
 
-**AI Engineering (personal projects)**
-- **Local LLMs** — Ollama on dedicated hardware, Spring Boot WebFlux integration
-- **Developer tools** — code review, commit message generation, text summarization powered by local models
-- **Planned** — RAG pipelines with ChromaDB, vector embeddings, LangChain4j, Spring AI
+**Currently exploring**
+- **AI Engineering** — integrating local LLMs (Ollama) with Spring Boot, building developer tools on top of them
+- **Planned** — RAG pipelines, vector embeddings, LangChain4j, Spring AI
 
 ---
 
@@ -40,7 +38,7 @@
 | [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Reactive streams with Spring WebFlux and R2DBC |
 | [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Quarkus + Kotlin + GCP Pub/Sub messaging |
 | [`docusign-integration`](https://github.com/deva-u7/docusign-integration) | Spring Boot + DocuSign API — envelope creation, webhook callbacks, signature workflow |
-| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers |
+| [`camunda-employee-onboarding`](https://github.com/deva-u7/camunda-employee-onboarding) | Camunda 8 process automation — BPMN, DMN, Zeebe workers *(exploring)* |
 
 ---
 
@@ -51,7 +49,6 @@
 **Messaging** — Kafka, AWS SNS, AWS SQS  
 **Cloud / AWS** — S3, SNS, SQS, Secrets Manager, EC2, SDK v2, Spring Cloud AWS 3  
 **Databases** — PostgreSQL, MySQL, MongoDB, H2  
-**AI** — Ollama, local LLMs (phi4-mini, qwen2.5), ChromaDB *(in progress)*  
 **Testing** — JUnit 5, Testcontainers, LocalStack, Mockito, WireMock  
 **DevOps** — Docker, Kubernetes, Maven, Gradle, GitHub Actions  
 
