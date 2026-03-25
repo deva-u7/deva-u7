@@ -33,7 +33,7 @@ building production backend systems across Java, Kotlin, and multiple frameworks
 
 | Repo | Lang | Description |
 |---|---|---|
-| [`spring-ollama-chat`](https://github.com/deva-u7/spring-ollama-chat) | Kotlin | Kotlin + Spring Boot WebFlux talking to a local Ollama instance. Exposes developer tools — code review with structured scoring, conventional commit message generation from git diffs, and multi-style text summarization. Prompt templates externalised to resource files, reactive SSE streaming, WireMock tests. |
+| [`spring-ollama-chat`](https://github.com/deva-u7/spring-ollama-chat) · [**live demo ↗**](https://deva-u7.github.io/spring-ollama-chat) | Kotlin | Kotlin + Spring Boot WebFlux talking to a local Ollama instance. Exposes developer tools — code review with structured scoring, conventional commit message generation from git diffs, and multi-style text summarization. Prompt templates externalised to resource files, reactive SSE streaming, WireMock tests. |
 | [`spring-cloud-aws`](https://github.com/deva-u7/spring-cloud-aws) | Java | Multi-module Spring Boot 3 project — SNS, SQS, S3 with LocalStack E2E tests, Secrets Manager, LaunchDarkly feature flags. AWS SDK v2 throughout. |
 | [`spring-boot-reactive`](https://github.com/deva-u7/spring-boot-reactive) | Java | Reactive REST APIs with Spring WebFlux and R2DBC. Non-blocking end-to-end. |
 | [`quarkus-gcp-pubsub`](https://github.com/deva-u7/quarkus-gcp-pubsub) | Kotlin | Quarkus + Kotlin service consuming GCP Pub/Sub messages. Native image compatible. |
