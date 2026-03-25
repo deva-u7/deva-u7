@@ -14,7 +14,7 @@
 
 ## What I build
 
-3+ years building production backend systems across Java, Kotlin, and multiple frameworks.
+building production backend systems across Java, Kotlin, and multiple frameworks.
 
 **Core stack (production experience)**
 - **Java & Kotlin** — Spring Boot, Quarkus, Ktor, WebFlux/Reactive, Hibernate/JPA
